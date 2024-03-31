@@ -1,4 +1,4 @@
-# A python tool to develop and deploy deep learning model from Molecular Dyanamic Simulation data to continuum models
+# A python tool to develop and deploy deep learning surrogate models from Molecular Dynamics Simulation data to continuum models
 
 A collection of scripts to work with the following softwares
 
